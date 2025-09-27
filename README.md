@@ -1,10 +1,11 @@
-# Anomaly-Detection-in-Time-Series
+#**Anomaly-Detection-in-Time-Series**
 
-##**Anomaly Dection in Time Series**
+
 
 
 ### **Description**
 I utilize an anomaly detection algorithn to analyze a time series data set that contains anomalies. The data set is "ambient_temperature_system_failure.csv" from the Numenta Anomaly Benchmark (NAB) dataset, which contains time-series data of ambient temperature readings from a system that experienced a failure. 
+<img width="1320" height="697" alt="Anomaly-detection" src="https://github.com/user-attachments/assets/64f0081f-3819-4b30-bafb-b56ab360e06c" />
 
 ### **Background**
 Anomaly detection in time series involves identifying unusual patterns, deviations, or unexpected behaviors that do not conform to the normal dynamics of the data. Traditional statistical methods often struggle with complex, nonlinear patterns, making deep learning approaches more effective.
