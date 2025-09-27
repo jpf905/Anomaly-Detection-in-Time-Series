@@ -3,7 +3,7 @@
 ##**Anomaly Dection in Time Series**
 
 
-### **Description**
+###**Description**
 I utilize an anomaly detection algorithn to analyze a time series data set that contains anomalies. The data set is "ambient_temperature_system_failure.csv" from the Numenta Anomaly Benchmark (NAB) dataset, which contains time-series data of ambient temperature readings from a system that experienced a failure. 
 
 ###**Background**
